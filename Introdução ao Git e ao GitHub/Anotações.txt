@@ -2,3 +2,26 @@ git clone + o link do repositório que você quer baixar
 ls - faz a listagem dos arquivos que tem dentro de uma pasta
 cd + direcionamento - leva a uma pasta
 cd .. sai de uma pasta
+
+
+
+Para criar um repositório
+
+1-Entrar no GitHub
+2-Criar um repositório e configurar README
+
+
+Para clonar o repositório
+1-Criar um local em seu computador onde irá armazenar o repositório.
+2-Clicar com botão direito Git Bash 
+3-Pegar o link do repositório
+4-git clone " Link do repositório" 
+
+Para fazer um commit
+
+1 - Verificar que já foi feito alterações nos arquivos desejados git status
+2 - Para saber se foram criados mais arquivos verificar com  " ls "
+3 - git add . ou git add -a para adicionar todos os arquivos novos 
+4  - $ git commit -m "Comentário"
+5 -$ git status para verificar se há um commit local 
+6 - git push origin main
