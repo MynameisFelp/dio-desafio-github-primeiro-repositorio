@@ -1,0 +1,4 @@
+git clone + o link do repositório que você quer baixar
+ls - faz a listagem dos arquivos que tem dentro de uma pasta
+cd + direcionamento - leva a uma pasta
+cd .. sai de uma pasta
