@@ -1,0 +1,54 @@
+Comandos Terminal Linux
+
+PWD - Caminho para encontrar o diretório atual
+da pasta em que estou.
+
+CD Para navegar entre os arquivos, igual do Windows 
+CD .. (com dois pontos seguidos) para mover um diretório acima
+CD -  Para mover até diretórios anteriores
+
+LS- Para listar conteúdos do diretório em que você está.
+LS-R -> Lista todos os arquivos dos subdiretórios
+ls -a -> Mostra todos arquivos ocultos do diretório.
+ls-al -> Lista todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário.
+
+cat > filename cria um novo arquivo
+cat filename1 filename2>filename3 junta dois arquivos (1 e 2) e armazena a saída deles num novo arquivo (3)
+para converter um arquivo para usos de maiúscula ou minúscula, use cat filename | tr a-z A-Z >output.txt
+
+
+CP Use o comando cp para copiar arquivo do diretório
+ atual em que você estiver. Por exemplo, o comando 
+cp scenery.jpg /home/username/Picturesvai criar uma cópia de scenery.jpg para o diretório Pictures. 
+
+TOUCH Use o comando cp para copiar arquivo do diretório atual em que você estiver.
+ Por exemplo, o comando cp scenery.jpg /home/username/Picturesvai criar uma cópia de scenery.jpg para o diretório Pictures. 
+
+MKDIR cria-se diretórios.
+
+MV modifica o nome da pasta criada
+mv "nome da pasta" "novo nome"
+
+RMDIR-> Comando para remover/ Excluir uma pasta
+
+RM -> Comando para remover arquivos.
+
+EXIT- Comando para sair do Terminal.
+
+HISTORY ->Comando que traz o histórico de comandos.
+
+LS DIR -> Comando que lista outro diretório que não o corrente.
+
+--HELP  Comando que exibe o arquivo de ajuda de um comando.
+
+MAN COMANDO -> Comando que exibe o manual do mando.
+
+is -> Comando que lista os diretórios e arquivos.
+
+Clear -> Limpa o terminal 
+crtl + l também limpa.
+
+CP Arquivo diretório -> Cria arquivos vazios no linux.
+
+CD/ muda para diretório raiz / 
+
