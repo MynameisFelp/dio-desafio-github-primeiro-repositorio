@@ -1,54 +1,121 @@
 Comandos Terminal Linux
 
+Comando
 PWD - Caminho para encontrar o diretório atual
 da pasta em que estou.
 
+Comando
 CD Para navegar entre os arquivos, igual do Windows 
+
+
+Comando
 CD .. (com dois pontos seguidos) para mover um diretório acima
+
+Comando
 CD -  Para mover até diretórios anteriores
 
+Comando
 LS- Para listar conteúdos do diretório em que você está.
-LS-R -> Lista todos os arquivos dos subdiretórios
+
+Comando
+LS-R -> Lista todos os arquivos dos subdiretórios.
+
+Comando
 ls -a -> Mostra todos arquivos ocultos do diretório.
+
+Comando
 ls-al -> Lista todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário.
 
+Comando
 cat > filename cria um novo arquivo
+
+Comando
 cat filename1 filename2>filename3 junta dois arquivos (1 e 2) e armazena a saída deles num novo arquivo (3)
 para converter um arquivo para usos de maiúscula ou minúscula, use cat filename | tr a-z A-Z >output.txt
 
-
+Comando
 CP Use o comando cp para copiar arquivo do diretório
  atual em que você estiver. Por exemplo, o comando 
 cp scenery.jpg /home/username/Picturesvai criar uma cópia de scenery.jpg para o diretório Pictures. 
 
-TOUCH Use o comando cp para copiar arquivo do diretório atual em que você estiver.
+Comando
+TOUCH 
+Use o comando cp para copiar arquivo do diretório atual em que você estiver.
  Por exemplo, o comando cp scenery.jpg /home/username/Picturesvai criar uma cópia de scenery.jpg para o diretório Pictures. 
 
+Comando
 MKDIR cria-se diretórios.
 
+Comando
 MV modifica o nome da pasta criada
 mv "nome da pasta" "novo nome"
 
+Comando
 RMDIR-> Comando para remover/ Excluir uma pasta
 
+Comando
 RM -> Comando para remover arquivos.
 
+Comando
 EXIT- Comando para sair do Terminal.
 
+Comando
 HISTORY ->Comando que traz o histórico de comandos.
 
+Comando
 LS DIR -> Comando que lista outro diretório que não o corrente.
 
+Comando
 --HELP  Comando que exibe o arquivo de ajuda de um comando.
 
+Comando
 MAN COMANDO -> Comando que exibe o manual do mando.
 
+Comando
 is -> Comando que lista os diretórios e arquivos.
 
+Comando
 Clear -> Limpa o terminal 
 crtl + l também limpa.
 
+Comando
 CP Arquivo diretório -> Cria arquivos vazios no linux.
 
+Comando
+Date mostra a data de hoje
+
+Comando
+greap " Palavra que você procura" 
+
+Comando
 CD/ muda para diretório raiz / 
 
+Comando
+Nano "Nome do arquivo" para fazer alterações nos arquivos txt
+
+Comando
+CAT "Nome do arquivo"  para abrir um arquivo
+
+Comando
+Head "Nome do arquivo"  Mostra as 10 primeiras linhas do arquivo txt
+
+Comando
+Tail "Nome do arquivo"  Mostra as 10 ultimas linhas de um arquivo txt
+
+Comando
+Cal Mostra o calendario do mês vigente.
+
+Comando
+Greap "Faz uma busca de uma palavra" Atentar-se pois deve abrir o arquivo antecipadamente para depois fazer a procura de uma palavra buscada
+
+Comando
+Exemplo "tail distros.txt | grep Linux" 
+
+
+Comando
+More
+
+Comando 
+file "Nome do arquivo" Mostra qual tipo de arquivo que é Exemplo se é pasta ou diretório ou arquivo txt
+
+Comando 
