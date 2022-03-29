@@ -1,0 +1,102 @@
+Comandos de Diretórios do Linux ubuntu 
+
+COMANDO
+/BIN/  Binarios Principais dos usuarios
+
+COMANDO 
+/BOOT/  Arquivos do sistema de Boot
+
+COMANDO
+/DEV/  Arquivos de dispositivos
+
+COMANDO 
+/  ETC / Arquivos de configurações do sistema.
+
+COMANDO 
+/  HOME/ Diretórios dos usuarios comuns do sistema.
+
+COMANDO 
+/ LIB  / Biblioteca essenciais do sistema e os módulos do kernel.
+
+COMANDO 
+/ MEDIA / Diretório de montagem de dispositivos.
+
+COMANDO 
+/ MNT  / Diretório de montagem de dispositivos - mesmo que "media" 
+
+COMANDO 
+/ OPT / Instalações de programas não oficiais distribuição ou por conta do usuario.
+
+COMANDO 
+/SBIN /  Armazena arquivos executáveis que representam comandos administrativos. Exemplo Shutdown 
+
+COMANDO 
+/SRV / Diretório para dados de serviços fornecidos pelo sistema.
+
+COMANDO 
+/ TMP/ Diretório para arquivos temporários
+
+COMANDO 
+/ USR / Segunda herarquia do sistema, onde ficam os usuarios comuns do sistema e programas.
+
+COMANDO 
+/ VAR / Diretório com arquivos variáveis gerados pelos programas do sistema. Exemplo > impressoras, email e cache.
+
+COMANDO 
+/ ROOT / Diretório do usuário root - O usuário root tem total poder sobre o sistema. Podendo    configurar
+
+COMANDO 
+/PROC / Diretório virtual pelo Kernel. 
+
+
+Revisão  
+
+
+COMANDO 
+/PROC / CPUINFO / Arquivo de informação do processador 
+
+COMANDO 
+/ ISCPU/ Exibe informações do processador
+
+COMANDO 
+/CAT / PROC/ MEMINFO / Arquivo de informação da memória
+
+COMANDO 
+/free / Exibe informações da memória física e virtual
+
+COMANDO 
+/ISHW / Exibe informações detalhadas sobre hardware 
+
+COMANDO 
+/ ISHW/ SHORT/ Exibe informações sobre o Hardware
+
+COMANDO 
+/ UNAME/  Exibe o nome do Kernel do sistema.
+
+COMANDO 
+/ UNAME - R /    Exibe a versão do Kernel 
+
+COMANDO 
+/ UNAME - M  / Exibe a arquitetura do Kernel.
+
+COMANDO 
+/ARCH  / Exibe a arquitetura do Kernel 
+
+COMANDO 
+/ISPCI  /  Exibe todas as placas PCI Conectadas
+
+COMANDO 
+/ ISUSB/ Exibe todos os dispositivos usb conectados
+
+COMANDO 
+/ DU -H ~/ Exibe o espaço que cada arquivo e pasta no diretório pessoal consome no hd 
+
+COMANDO 
+/ reboot / Reinicia o sistema
+
+COMANDO 
+/ SHUTDOWN - R/ Reinicia o sistema
+
+COMANDO 
+/SHUTDOWN - H NOW  / Desliga o sistema rapidamente.
+              

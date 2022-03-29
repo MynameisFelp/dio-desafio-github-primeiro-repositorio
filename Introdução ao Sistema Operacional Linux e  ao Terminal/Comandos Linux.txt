@@ -85,7 +85,7 @@ Comando
 Date mostra a data de hoje
 
 Comando
-greap " Palavra que você procura" 
+grep " Palavra que você procura" 
 
 Comando
 CD/ muda para diretório raiz / 
@@ -106,16 +106,43 @@ Comando
 Cal Mostra o calendario do mês vigente.
 
 Comando
-Greap "Faz uma busca de uma palavra" Atentar-se pois deve abrir o arquivo antecipadamente para depois fazer a procura de uma palavra buscada
+Grep "Faz uma busca de uma palavra" Atentar-se pois deve abrir o arquivo antecipadamente para depois fazer a procura de uma palavra buscada
 
 Comando
 Exemplo "tail distros.txt | grep Linux" 
 
 
 Comando
-More
+More Exibe paginação em um arquivo de texto
 
 Comando 
 file "Nome do arquivo" Mostra qual tipo de arquivo que é Exemplo se é pasta ou diretório ou arquivo txt
 
 Comando 
+Whatis determina o que um comando faz 
+
+Comando
+Cat exibe conteúdos de arquivos no terminal
+
+Comando 
+Tac Exibe a ordem inversa dos conteúdos no terminal
+
+Comando 
+Find Busca arquivos (Colocar um caminho) 
+Exemplo 
+find ~ -name setembro.txt
+/home/felipe/setembro.txt
+/home/felipe/exercicios/setembro.txt
+
+
+Comando
+less exibe paginação de um arquivo de texto
+
+Comando
+cal exibe calendario
+
+Comando 
+date exibe a data atual
+
+
+
